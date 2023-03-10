@@ -1,4 +1,4 @@
-Preguntas de lectura: Capítulo 1
+##Preguntas de lectura: Capítulo 1
 
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
 
@@ -75,7 +75,7 @@ ejemplos.
     La calidad del servicio es un aspecto fundamental en una red de datos ya que afecta directamente a la experiencia del usuario. Una red de datos con una buena calidad de servicio garantiza una conexión confiable y estable, con velocidades de transmisión de datos rápidas y consistentes. 
 
 
-Preguntas de lectura: Capítulo 2
+##Preguntas de lectura: Capítulo 2
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
@@ -91,3 +91,10 @@ INTERNETWORK E INTERNET.
 
     Internetwork es una malla global de redes interconectadas que pertenecen a organizaciones públicas o privadas, mientras internet es una red global encargada de dar acceso a millones de usuarios en todo el mundo.  
 
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+    Internetwork es una malla global de redes interconectadas, algunas de estas redes pertenecen a grandes organizaciones como agencias gubernamentales, empresas, entre otras, mientras internet pertenece a una de estas redes interconectadas, y es una de las más conocidas.
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+    Una tarjeta de interfaz de red es la encargada de la comunicación con aparatos conectados entre si y tambien es la que permite compartir recursos entre dos o más computadoras, mientras un puerto físico es el encargado de interconectar dispositivos externos con la computadora y la interfaz de red permite comunicarse con otros equipos a través de redes privadas o públicas, esto se hace siempre y cuando cualquier servidor ejecute el servicio de enrutamiento.
