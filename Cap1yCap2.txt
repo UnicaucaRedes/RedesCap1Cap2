@@ -1,2 +1,11 @@
-Inicializando... 
-primera prueba sin respuestas
+Preguntas de lectura: Capítulo 1
+
+1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+
+Las redes han sido una parte fundamental en la construcción de la comunicación a distancia y el mejoramiento de procesos tan simples como el traslado de información de un lugar a otro,
+facilitando de esta manera la vida de la red humana. Además, ofrece múltiples beneficios en diferentes áreas, 
+como la educación, la industria y el entretenimiento, permitiendo el acceso rápido a cursos educativos con material altamente editable y personalizable. 
+Para las grandes y pequeñas industrias ha permitido tener acceso a la  gestión e información de las distintas partes que conforman una empresa en cuestión de segundos
+y todo en nuestra bandeja de entrada y por último el gran impacto al entretenimiento con los servicios de música, 
+streaming,creación de contenido a gran y pequeña escala, redes sociales y videojuegos que te permiten interactuar con personas al otro lado de la esférica. 
+Lo más importante de todo es que gracias a las redes cualquiera puede acceder a estos servicios a cualquier hora y en cualquier lugar.
