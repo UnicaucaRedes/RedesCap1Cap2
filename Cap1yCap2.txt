@@ -65,4 +65,14 @@ ejemplos.
 
     No orientado a la conexión significa una comunicación entre dos puntos finales de una red en los que un mensaje puede ser enviado desde un punto final a otro sin acuerdo previo.
 
+9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
+    Se habla de Calidad del servicio (QoS) cuándo se le da solución y seguimiento a factores como pérdida de paquetes o de retraso en una red. Para esto se utilizan una serie de técnicas para administrar de manera adecuada los recursos de red. Es importante clasificar las aplicaciones en categorías, esto nos permitirá darle prioridad a la comunicación que es sensible al tiempo, es decir, información importante con respecto a otros mensajes que pueden esperar o que son de menor importancia.
+    Por otra parte, se encuentra la asignación de prioridades, que fue lo que se mencionó al momento de priorizar las categorías importantes y es que el administrador puede darle la relevancia más conveniente a cada tipo de mensaje dependiendo de sus necesidades que a la vez son las necesidades de la empresa. Esto nos permite filtrar de manera eficiente los paquetes que contengan las características de mensajes que pertenezcan a la cola de alta prioridad, media prioridad y baja prioridad.
+
+10. ¿Por qué importa la calidad del servicio en una red de datos?
+
+    La calidad del servicio es un aspecto fundamental en una red de datos ya que afecta directamente a la experiencia del usuario. Una red de datos con una buena calidad de servicio garantiza una conexión confiable y estable, con velocidades de transmisión de datos rápidas y consistentes. 
+
+
 
