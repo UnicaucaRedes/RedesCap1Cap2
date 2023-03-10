@@ -98,3 +98,10 @@ INTERNETWORK E INTERNET.
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 
     Una tarjeta de interfaz de red es la encargada de la comunicación con aparatos conectados entre si y tambien es la que permite compartir recursos entre dos o más computadoras, mientras un puerto físico es el encargado de interconectar dispositivos externos con la computadora y la interfaz de red permite comunicarse con otros equipos a través de redes privadas o públicas, esto se hace siempre y cuando cualquier servidor ejecute el servicio de enrutamiento.
+
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+    La tecnología debe acoplarse a lo que rige el protocolo, si por alguna razón aparece un nuevo protocolo las tecnologías deben hacer su respectiva actualización para que pueda funcionar de una manera correcta.
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
+    Es utilizada para el intercambio de datos entre unidades disparejas.
