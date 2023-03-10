@@ -110,7 +110,18 @@ INTERNETWORK E INTERNET.
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
    adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
-   El dibujo aparecerá en el documento
+    Los protocolos son un conjunto de reglas y estándares que se utilizan en las comunicaciones de redes para establecer la forma en que los datos se transmiten y reciben entre dispositivos conectados en la red.
+    En cuánto al encapsulamiento de datos podemos decir qué es un método utilizado por los protocolos de red para agregar información adicional a los datos originales antes de ser transmitidos. 
+    Esto con el fin de garantizar que los datos se entreguen correctamente a su destino, y también para proporcionar información adicional que se utiliza en el proceso de entrega.
+
+    El dibujo aparecerá en el documento, aquí se escribirá el PDU en cada capa del modelo TCP/IP
+
+    Datos: término general para la PDU que se utiliza en la capa de aplicación.
+    Segmento: PDU de la capa de transporte.
+    Paquete: PDU de la capa de red.
+    Trama: PDU de la capa de enlace de datos.
+    Bits: PDU de la capa física que se utiliza cuando se transmiten datos físicamente por el medio.
+
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
     El protocolo TCP/IP es el encargado de describir las funciones que se producen en cada capa de los protocolos dentro del conjunto TCP/IP, mientras en el modelo de referencia es el encargado de asistir en la comprensión más clara de las funciones y los procesos involucrados.
