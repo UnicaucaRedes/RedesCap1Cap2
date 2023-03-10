@@ -25,17 +25,21 @@
 
 4. Describir los factores que afectan la calidad de las comunicaciones.
 
-    Para que se vean afectados el emisor y el receptor la calidad de la ruta debe estar muy congestionada por bastante número de dispositivos conectados en el momento del envío del mensaje.
-
-    Hay momentos en el que el internet es muy lento entonces al momento  de ser enviado un mensaje de texto o un video, etc, esto puede ocasionar que no se envíe y en ese preciso instante hay que enviar de nuevo. 
+    Para que se vean afectados el emisor y el receptor la calidad de la ruta debe estar muy congestionada por 
+    bastante número de dispositivos conectados en el momento del envío del mensaje.
+    
+    Hay momentos en el que el internet es muy lento entonces al momento  de ser enviado un mensaje de texto o un video, etc, 
+    esto puede ocasionar que no se envíe y en ese preciso instante hay que enviar de nuevo. 
 
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 
-    Dispositivos: Son todos aquellos artefactos físicos, es decir, que podemos tocar, que nos permite establecer una comunicación como mínimo entre 2 de ellos, conociéndose comúnmente como dispositivo de origen y dispositivo final
+    Dispositivos: Son todos aquellos artefactos físicos, es decir, que podemos tocar, que nos permite establecer una comunicación como mínimo entre 2 de ellos, 
+    conociéndose comúnmente como dispositivo de origen y dispositivo final
 
     Medios: Para realizar el envío de un mensaje, la computadora u otro dispositivo, estos deben estar conectados a través de una red local inalámbrica o con cables.
 
-    Mensaje: Se convierte en un formato para que este se pueda transmitir por la red, deben ser convertidos a bits, señales digitales codificadas en binario, antes de ser enviados a sus destinos, sin importar el formato del mensaje.
+    Mensaje: Se convierte en un formato para que este se pueda transmitir por la red, deben ser convertidos a bits, señales digitales codificadas en binario, 
+    antes de ser enviados a sus destinos, sin importar el formato del mensaje.
 
     Reglas: Especifican la manera en que se deben enviar los mensajes, cómo se direccionan a través de la red y cómo se interpretan en los dispositivos de destino.
 
@@ -47,9 +51,8 @@
 
     Red convergente: Es la encargada de transportar múltiples servicios en una red
 
-7. Describir las características de las arquitecturas de red: tolerante a fallas,
-escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
-ejemplos.
+7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
+   ejemplos.
 
     Tolerante a fallas: Limita el impacto de una falla del software o hardware y puede recuperarse rápidamente cuando se produce dicha falla.
 
@@ -63,45 +66,62 @@ ejemplos.
 
     Un protocolo orientado a la conexión es un modo de comunicación de redes donde se debe establecer una conexión antes de transferir datos. 
 
-    No orientado a la conexión significa una comunicación entre dos puntos finales de una red en los que un mensaje puede ser enviado desde un punto final a otro sin acuerdo previo.
+    No orientado a la conexión significa una comunicación entre dos puntos finales de una red en los que un mensaje puede ser enviado 
+    desde un punto final a otro sin acuerdo previo.
 
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 
-    Se habla de Calidad del servicio (QoS) cuándo se le da solución y seguimiento a factores como pérdida de paquetes o de retraso en una red. Para esto se utilizan una serie de técnicas para administrar de manera adecuada los recursos de red. Es importante clasificar las aplicaciones en categorías, esto nos permitirá darle prioridad a la comunicación que es sensible al tiempo, es decir, información importante con respecto a otros mensajes que pueden esperar o que son de menor importancia.
-    Por otra parte, se encuentra la asignación de prioridades, que fue lo que se mencionó al momento de priorizar las categorías importantes y es que el administrador puede darle la relevancia más conveniente a cada tipo de mensaje dependiendo de sus necesidades que a la vez son las necesidades de la empresa. Esto nos permite filtrar de manera eficiente los paquetes que contengan las características de mensajes que pertenezcan a la cola de alta prioridad, media prioridad y baja prioridad.
+    Se habla de Calidad del servicio (QoS) cuándo se le da solución y seguimiento a factores como pérdida de paquetes o de retraso en una red.
+    Para esto se utilizan una serie de técnicas para administrar de manera adecuada los recursos de red. Es importante clasificar las aplicaciones en categorías, 
+    esto nos permitirá darle prioridad a la comunicación que es sensible al tiempo, es decir, información importante con respecto a otros mensajes que pueden 
+    esperar o que son de menor importancia.
+
+    Por otra parte, se encuentra la asignación de prioridades, que fue lo que se mencionó al momento de priorizar las categorías 
+    importantes y es que el administrador puede darle la relevancia más conveniente a cada tipo de mensaje dependiendo de sus necesidades 
+    que a la vez son las necesidades de la empresa. Esto nos permite filtrar de manera eficiente los paquetes que contengan las características de mensajes 
+    que pertenezcan a la cola de alta prioridad, media prioridad y baja prioridad.
 
 10. ¿Por qué importa la calidad del servicio en una red de datos?
 
-    La calidad del servicio es un aspecto fundamental en una red de datos ya que afecta directamente a la experiencia del usuario. Una red de datos con una buena calidad de servicio garantiza una conexión confiable y estable, con velocidades de transmisión de datos rápidas y consistentes. 
+    La calidad del servicio es un aspecto fundamental en una red de datos ya que afecta directamente a la experiencia del usuario. 
+    Una red de datos con una buena calidad de servicio garantiza una conexión confiable y estable, con velocidades de transmisión de datos rápidas y consistentes. 
 
 
 ## Preguntas de lectura: Capítulo 2
 
-1. Describir la estructura de una red, incluidos los dispositivos, medios y
-servicios necesarios para lograr comunicaciones exitosas.
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
 
-    Una red es un conjunto de dispositivos interconectados que se utilizan para compartir recursos y comunicarse entre sí, la estructura de una red incluye dispositivos, medios y servicios. Los dispositivos son los elementos físicos que componen la red y que permiten la comunicación entre los usuarios, por otra parte, los medios son los canales de comunicación que se utilizan para transmitir los datos entre los dispositivos, en cuanto a los servicios, son los recursos que se ofrecen en la red y que permiten a los usuarios acceder a ellos. El conjunto de estos elementos configurados adecuadamente nos permitirá la comunicación y el intercambio de recursos.
+    Una red es un conjunto de dispositivos interconectados que se utilizan para compartir recursos y comunicarse entre sí, 
+    la estructura de una red incluye dispositivos, medios y servicios. Los dispositivos son los elementos físicos que componen la red y que permiten 
+    la comunicación entre los usuarios, por otra parte, los medios son los canales de comunicación que se utilizan para transmitir los datos entre los dispositivos, 
+    en cuanto a los servicios, son los recursos que se ofrecen en la red y que permiten a los usuarios acceder a ellos. 
+    El conjunto de estos elementos configurados adecuadamente nos permitirá la comunicación y el intercambio de recursos.
 
-2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
-INTERNETWORK E INTERNET.
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
 
     Una red es un conjunto de medios, tecnologías, protocolos y facilidades en general, necesarios para el intercambio de información y archivos entre los usuarios de una red.
 
     LAN es la que cubre una única área geográfica(empresa, hogar), mientras que una WAN es la encargada de realizar interconexiones entre las LAN. 
 
-    Internetwork es una malla global de redes interconectadas que pertenecen a organizaciones públicas o privadas, mientras internet es una red global encargada de dar acceso a millones de usuarios en todo el mundo.  
+    Internetwork es una malla global de redes interconectadas que pertenecen a organizaciones públicas o privadas, 
+    mientras internet es una red global encargada de dar acceso a millones de usuarios en todo el mundo.  
 
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
-    Internetwork es una malla global de redes interconectadas, algunas de estas redes pertenecen a grandes organizaciones como agencias gubernamentales, empresas, entre otras, mientras internet pertenece a una de estas redes interconectadas, y es una de las más conocidas.
+    Internetwork es una malla global de redes interconectadas, algunas de estas redes pertenecen a grandes organizaciones como agencias gubernamentales, 
+    empresas, entre otras, mientras internet pertenece a una de estas redes interconectadas, y es una de las más conocidas.
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 
-    Una tarjeta de interfaz de red es la encargada de la comunicación con aparatos conectados entre si y tambien es la que permite compartir recursos entre dos o más computadoras, mientras un puerto físico es el encargado de interconectar dispositivos externos con la computadora y la interfaz de red permite comunicarse con otros equipos a través de redes privadas o públicas, esto se hace siempre y cuando cualquier servidor ejecute el servicio de enrutamiento.
+    Una tarjeta de interfaz de red es la encargada de la comunicación con aparatos conectados entre si y tambien es la que permite 
+    compartir recursos entre dos o más computadoras, mientras un puerto físico es el encargado de interconectar dispositivos externos 
+    con la computadora y la interfaz de red permite comunicarse con otros equipos a través de redes privadas o públicas, 
+    esto se hace siempre y cuando cualquier servidor ejecute el servicio de enrutamiento.
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
-    La tecnología debe acoplarse a lo que rige el protocolo, si por alguna razón aparece un nuevo protocolo las tecnologías deben hacer su respectiva actualización para que pueda funcionar de una manera correcta.
+    La tecnología debe acoplarse a lo que rige el protocolo, si por alguna razón aparece un nuevo protocolo 
+    las tecnologías deben hacer su respectiva actualización para que pueda funcionar de una manera correcta.
 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo(PDU).
 
@@ -110,8 +130,10 @@ INTERNETWORK E INTERNET.
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
    adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
-    Los protocolos son un conjunto de reglas y estándares que se utilizan en las comunicaciones de redes para establecer la forma en que los datos se transmiten y reciben entre dispositivos conectados en la red.
-    En cuánto al encapsulamiento de datos podemos decir qué es un método utilizado por los protocolos de red para agregar información adicional a los datos originales antes de ser transmitidos. 
+    Los protocolos son un conjunto de reglas y estándares que se utilizan en las comunicaciones de redes para establecer la forma en que los datos se transmiten y 
+    reciben entre dispositivos conectados en la red.
+    En cuánto al encapsulamiento de datos podemos decir qué es un método utilizado por los protocolos de red para agregar información adicional a los datos 
+    originales antes de ser transmitidos. 
     Esto con el fin de garantizar que los datos se entreguen correctamente a su destino, y también para proporcionar información adicional que se utiliza en el proceso de entrega.
 
     El dibujo aparecerá en el documento, aquí se escribirá el PDU en cada capa del modelo TCP/IP
@@ -124,7 +146,8 @@ INTERNETWORK E INTERNET.
 
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
-    El protocolo TCP/IP es el encargado de describir las funciones que se producen en cada capa de los protocolos dentro del conjunto TCP/IP, mientras en el modelo de referencia es el encargado de asistir en la comprensión más clara de las funciones y los procesos involucrados.
+    El protocolo TCP/IP es el encargado de describir las funciones que se producen en cada capa de los protocolos dentro del conjunto TCP/IP, 
+    mientras en el modelo de referencia es el encargado de asistir en la comprensión más clara de las funciones y los procesos involucrados.
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 
@@ -149,4 +172,5 @@ INTERNETWORK E INTERNET.
 
     Enlace de datos: Describen los métodos para intercambiar tramas de datos entre dispositivos en un medio común.
 
-    Física: Describen los medios mecánicos, eléctricos, funcionales y de procedimiento para activar, mantener y desactivar conexiones físicas para la transmisión de bits hacia y desde un dispositivo de red.
+    Física: Describen los medios mecánicos, eléctricos, funcionales y de procedimiento para activar, mantener y desactivar conexiones físicas 
+    para la transmisión de bits hacia y desde un dispositivo de red.
