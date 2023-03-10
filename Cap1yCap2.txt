@@ -75,4 +75,19 @@ ejemplos.
     La calidad del servicio es un aspecto fundamental en una red de datos ya que afecta directamente a la experiencia del usuario. Una red de datos con una buena calidad de servicio garantiza una conexión confiable y estable, con velocidades de transmisión de datos rápidas y consistentes. 
 
 
+Preguntas de lectura: Capítulo 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y
+servicios necesarios para lograr comunicaciones exitosas.
+
+    Una red es un conjunto de dispositivos interconectados que se utilizan para compartir recursos y comunicarse entre sí, la estructura de una red incluye dispositivos, medios y servicios. Los dispositivos son los elementos físicos que componen la red y que permiten la comunicación entre los usuarios, por otra parte, los medios son los canales de comunicación que se utilizan para transmitir los datos entre los dispositivos, en cuanto a los servicios, son los recursos que se ofrecen en la red y que permiten a los usuarios acceder a ellos. El conjunto de estos elementos configurados adecuadamente nos permitirá la comunicación y el intercambio de recursos.
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+
+    Una red es un conjunto de medios, tecnologías, protocolos y facilidades en general, necesarios para el intercambio de información y archivos entre los usuarios de una red.
+
+    LAN es la que cubre una única área geográfica(empresa, hogar), mientras que una WAN es la encargada de realizar interconexiones entre las LAN. 
+
+    Internetwork es una malla global de redes interconectadas que pertenecen a organizaciones públicas o privadas, mientras internet es una red global encargada de dar acceso a millones de usuarios en todo el mundo.  
 
