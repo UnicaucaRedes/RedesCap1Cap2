@@ -22,3 +22,28 @@ Preguntas de lectura: Capítulo 1
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado.
     Blogs
     Mensajería instantánea
+
+4. Describir los factores que afectan la calidad de las comunicaciones.
+
+    Para que se vean afectados el emisor y el receptor la calidad de la ruta debe estar muy congestionada por bastante número de dispositivos conectados en el momento del envío del mensaje.
+
+    Hay momentos en el que el internet es muy lento entonces al momento  de ser enviado un mensaje de texto o un video, etc, esto puede ocasionar que no se envíe y en ese preciso instante hay que enviar de nuevo. 
+
+5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+    Dispositivos: Son todos aquellos artefactos físicos, es decir, que podemos tocar, que nos permite establecer una comunicación como mínimo entre 2 de ellos, conociéndose comúnmente como dispositivo de origen y dispositivo final
+
+    Medios: Para realizar el envío de un mensaje, la computadora u otro dispositivo, estos deben estar conectados a través de una red local inalámbrica o con cables.
+
+    Mensaje: Se convierte en un formato para que este se pueda transmitir por la red, deben ser convertidos a bits, señales digitales codificadas en binario, antes de ser enviados a sus destinos, sin importar el formato del mensaje.
+
+    Reglas: Especifican la manera en que se deben enviar los mensajes, cómo se direccionan a través de la red y cómo se interpretan en los dispositivos de destino.
+
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+    Datos: Es una colección de información que puede ser almacenada y procesada.
+
+    Red de datos: Son infraestructuras que han sido creadas para poder transmitir información a través del intercambio de datos.
+
+    Red convergente: Es la encargada de transportar múltiples servicios en una red
+
