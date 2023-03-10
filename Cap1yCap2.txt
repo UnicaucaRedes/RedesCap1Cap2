@@ -1,4 +1,4 @@
-##Preguntas de lectura: Capítulo 1
+## Preguntas de lectura: Capítulo 1
 
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
 
@@ -75,7 +75,7 @@ ejemplos.
     La calidad del servicio es un aspecto fundamental en una red de datos ya que afecta directamente a la experiencia del usuario. Una red de datos con una buena calidad de servicio garantiza una conexión confiable y estable, con velocidades de transmisión de datos rápidas y consistentes. 
 
 
-##Preguntas de lectura: Capítulo 2
+## Preguntas de lectura: Capítulo 2
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
@@ -100,8 +100,42 @@ INTERNETWORK E INTERNET.
     Una tarjeta de interfaz de red es la encargada de la comunicación con aparatos conectados entre si y tambien es la que permite compartir recursos entre dos o más computadoras, mientras un puerto físico es el encargado de interconectar dispositivos externos con la computadora y la interfaz de red permite comunicarse con otros equipos a través de redes privadas o públicas, esto se hace siempre y cuando cualquier servidor ejecute el servicio de enrutamiento.
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+
     La tecnología debe acoplarse a lo que rige el protocolo, si por alguna razón aparece un nuevo protocolo las tecnologías deben hacer su respectiva actualización para que pueda funcionar de una manera correcta.
 
-6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
-(PDU).
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo(PDU).
+
     Es utilizada para el intercambio de datos entre unidades disparejas.
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
+   adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+   El dibujo aparecerá en el documento
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+    El protocolo TCP/IP es el encargado de describir las funciones que se producen en cada capa de los protocolos dentro del conjunto TCP/IP, mientras en el modelo de referencia es el encargado de asistir en la comprensión más clara de las funciones y los procesos involucrados.
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+    Modelo TCP/IP 
+
+    Aplicación: Representa datos para el usuario más el control de codificación y de diálogo.
+    Transporte: Controla los dispositivos del hardware y los medios que forman la red.
+    Internet: Determinar la mejor ruta a través de la red.
+    Acceso a la red: Controla los dispositivos del hardware y los medios que forman la red.
+
+    Modelo OSI
+
+    Aplicación: Proporciona los medios para la conectividad de extremo a extremo entre individuos de la red humana que usan redes de datos.
+
+    Presentación: Proporciona una representación común de los datos transferidos entre los servicios de la capa de Aplicación.
+
+    Sesión: Proporciona servicios a la capa de Presentación para organizar su diálogo y administrar el intercambio de datos. 
+
+    Transporte: Define los servicios para segmentar, transferir y reensamblar los datos para las comunicaciones individuales entre dispositivos finales. 
+
+    Red: Proporciona servicios para intercambiar los datos individuales en la red entre dispositivos finales identificados.
+
+    Enlace de datos: Describen los métodos para intercambiar tramas de datos entre dispositivos en un medio común.
+
+    Física: Describen los medios mecánicos, eléctricos, funcionales y de procedimiento para activar, mantener y desactivar conexiones físicas para la transmisión de bits hacia y desde un dispositivo de red.
